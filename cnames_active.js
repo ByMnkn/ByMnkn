@@ -1,1 +1,1 @@
-"bymnkn": "bymnkn.github.io/books"
+"bymnkn": "bymnkn.github.io/bymnkn"
